@@ -1,6 +1,6 @@
 #!#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# https://adventofcode.com/2019/day/1/
+# https://adventofcode.com/2019/day/2/
 
 def multipleFour(n):
     return not(n & 3)
